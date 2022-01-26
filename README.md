@@ -1,6 +1,6 @@
 ### Hello there, I'm Peter Jung - aka [rockystone77][website] 👋
 
-## I'm a student and looking for a job~~
+## Learning everything
 
 - 🔭 I love looking at the stars~
 - 🌱 I’m currently learning everything 🤣
