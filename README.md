@@ -51,10 +51,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=rockystone77
 
 <br />
 <br />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [website]: https://github.com/rockystone77
 [linkedin]: https://www.linkedin.com/in/peterjung9405
 [webdevplaylist]: https://www.codecademy.com/
