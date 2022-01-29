@@ -52,12 +52,11 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=rockystone77
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rockystone77&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [website]: https://github.com/rockystone77
 [linkedin]: https://www.linkedin.com/in/peterjung9405
 [webdevplaylist]: https://www.codecademy.com/
