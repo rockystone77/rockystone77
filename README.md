@@ -10,7 +10,7 @@
 - 🔭 I love looking at the stars~
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work as team!
-- 🥅 2021 Goals: Learn to code in every aspect and diligently
+- 🥅 2022 Goals: Learn to code in every aspect and diligently
 - ⚡ Fun fact: I love to play guitar and piano!
 
 ### Connect with me:
