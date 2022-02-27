@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="debian" **alt="debian" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="django" **alt="django" width="40" height="40"/>
+  <img src="download (1).png" title="Sanity" **alt="Sanity" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
