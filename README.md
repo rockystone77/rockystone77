@@ -5,7 +5,7 @@
 
 ### Hello there, I'm Peter Jung - aka [rockystone77][website] 👋
 
-### My Website [Portfolio][portfolioWebsite]
+### My Website Made with React and Sanity [Portfolio][portfolioWebsite]
 
 ## Learning everything
 
